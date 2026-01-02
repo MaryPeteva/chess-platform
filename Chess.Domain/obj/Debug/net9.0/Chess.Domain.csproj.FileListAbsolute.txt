@@ -1,0 +1,11 @@
+H:\chess-platform\Chess.Domain\bin\Debug\net9.0\Chess.Domain.deps.json
+H:\chess-platform\Chess.Domain\bin\Debug\net9.0\Chess.Domain.dll
+H:\chess-platform\Chess.Domain\bin\Debug\net9.0\Chess.Domain.pdb
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\Chess.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\Chess.Domain.AssemblyInfoInputs.cache
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\Chess.Domain.AssemblyInfo.cs
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\Chess.Domain.csproj.CoreCompileInputs.cache
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\Chess.Domain.dll
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\refint\Chess.Domain.dll
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\Chess.Domain.pdb
+H:\chess-platform\Chess.Domain\obj\Debug\net9.0\ref\Chess.Domain.dll

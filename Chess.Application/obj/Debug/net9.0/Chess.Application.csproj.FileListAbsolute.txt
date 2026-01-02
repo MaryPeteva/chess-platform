@@ -1,0 +1,15 @@
+H:\chess-platform\Chess.Application\bin\Debug\net9.0\Chess.Application.deps.json
+H:\chess-platform\Chess.Application\bin\Debug\net9.0\Chess.Application.dll
+H:\chess-platform\Chess.Application\bin\Debug\net9.0\Chess.Application.pdb
+H:\chess-platform\Chess.Application\bin\Debug\net9.0\Chess.Domain.dll
+H:\chess-platform\Chess.Application\bin\Debug\net9.0\Chess.Domain.pdb
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Application.csproj.AssemblyReference.cache
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Application.AssemblyInfoInputs.cache
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Application.AssemblyInfo.cs
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Application.csproj.CoreCompileInputs.cache
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Ap.8824AAB9.Up2Date
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Application.dll
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\refint\Chess.Application.dll
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\Chess.Application.pdb
+H:\chess-platform\Chess.Application\obj\Debug\net9.0\ref\Chess.Application.dll
